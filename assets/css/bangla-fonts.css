@@ -1,8 +1,8 @@
 /* Shobuj Nolua*/
 @font-face {
     font-family: 'Shobuj Nolua';
-    src: url('../fonts/Shobuj_Nolua/ShobujNolua.woff2') format('woff2'),
-        url('../Shobuj_Nolua/ShobujNolua.woff') format('woff');
+    src: url('../fonts/shobuj_nolua/ShobujNolua.woff2') format('woff2'),
+        url('../fonts/shobuj_nolua/ShobujNolua.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
