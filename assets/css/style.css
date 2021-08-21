@@ -1,0 +1,132 @@
+/* 
+Project Name : Bangla Fonts
+Author : Md. Imam Uddin
+Author URI : https://about.me/imamuddinwp
+Version : 1.0.0
+Description : Here I have included some Bangla Fonts for using bangla website & blog.
+
+*/
+
+/*Basic Styles*/
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    box-sizing: border-box;
+	font-family: 'Play', sans-serif;
+}
+h1,h4 {
+    text-align: center;
+    box-shadow: 5px 10px 8px 10px #888888;
+    background-color: #ecf0f1;
+}
+/*Common styles*/
+.container {
+    width: 1080x;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+.row {
+    display: flex;
+}
+.col {
+    width: 33.33%;
+    padding: 10px;
+}
+
+/* Bangla Fonts*/
+
+/*=====================================================================*/
+/*Shobuj Nolua*/
+.shobuj_nolua {
+    font-family: 'Shobuj Nolua';
+    text-align: center;
+    font-size: 22px;
+}
+/*=====================================================================*/
+/*Shorif Shishir Unicode*/
+.sharif_shidhir_unicode {
+    font-family: 'Shorif Shishir Unicode';
+    text-align: center;
+    font-size: 16px;
+}
+/*=============================================================================*/
+/* Shorif Bongobondhu UNICODE*/
+.sharif_bongobondhu_unicode {
+    font-family: 'Shorif Bongobondhu UNICODE';
+    text-align: center;
+    font-size: 17px;
+}
+/*================================================================================*/
+/* Shorif Choyon */
+.shorif_choyon {
+    font-family: 'Shorif Choyon';
+    text-align: center;
+    font-size: 17px;
+}
+/*================================================================================*/
+
+/* Shorif Choyon */
+.bensen_handwriting {
+    font-family: 'BenSenHandwriting';
+    text-align: center;
+    font-size: 17px;
+}
+/*================================================================================*/
+.notosans_bengali {
+    font-family: 'Noto Sans Bengali';
+    text-align: center;
+    font-size: 15px;
+}
+/*================================================================================*/
+.kohinoor_bangla {
+    font-family: 'Kohinoor Bangla';
+    text-align: center;
+    font-size: 15px;
+}
+.hind_siliguri{
+	font-family: 'Hind Siliguri', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+.baloo_da_2{
+	font-family: 'Baloo Da 2', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+.galada{
+	font-family: 'Galada', cursive;
+    text-align: center;
+    font-size: 15px;
+}
+
+/*--------------------------------------------------*/
+.font_title {
+    background-color: chartreuse;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+/*Footer Items*/
+.footer_main {
+    margin-bottom: 5px;
+}
+.footer_main a {
+    text-decoration: none;
+}
+.download {
+    float: right;
+    background-color: aqua;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.download a {
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    font-weight: 600;
+}

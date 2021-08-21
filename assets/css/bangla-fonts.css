@@ -1,0 +1,66 @@
+/* Shobuj Nolua*/
+@font-face {
+    font-family: 'Shobuj Nolua';
+    src: url('../fonts/Shobuj_Nolua/ShobujNolua.woff2') format('woff2'),
+        url('../Shobuj_Nolua/ShobujNolua.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*===========================================================*/
+
+/*Shorif Shishir Unicode*/
+@font-face {
+    font-family: 'Shorif Shishir Unicode';
+    src: url('../fonts/shorif-shishir-unicode/ShorifShishirUnicode.woff2') format('woff2'),
+        url('../fonts/shorif-shishir-unicode/ShorifShishirUnicode.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*==================================================================================*/
+/* Shorif Bongobondhu UNICODE */
+@font-face {
+    font-family: 'Shorif Bongobondhu UNICODE';
+    src: url('../fonts/shorif_bongobondhu_unicode/ShorifBongobondhuUNICODE.woff2') format('woff2'),
+        url('../fonts/shorif_bongobondhu_unicode/ShorifBongobondhuUNICODE.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/*=======================================================================================*/
+/*Shorif Choyon*/
+@font-face {
+    font-family: 'Shorif Choyon';
+    src: url('../fonts/shorif-choyon/ShorifChoyon.woff2') format('woff2'),
+        url('../fonts/shorif-choyon/ShorifChoyon.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*=======================================================================================*/
+/* BenSen Handwriting */
+@font-face {
+    font-family: 'BenSenHandwriting';
+    src: url('../fonts/bensen-handwriting/BenSenHandwriting.woff2') format('woff2'),
+        url('../fonts/bensen-handwriting/BenSenHandwriting.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*=======================================================================================*/
+/* Noto Sans Bengali */
+@font-face {
+    font-family: 'Noto Sans Bengali';
+    src: url('../fonts/notosans-bengali-regular/NotoSansBengali.woff2') format('woff2'),
+        url('../fonts/notosans-bengali-regular/NotoSansBengali.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*=======================================================================================*/
+/* Kohinoor Bangla */
+@font-face {
+    font-family: 'Kohinoor Bangla';
+    src: url('../fonts/kohinoor-bangla-regular/KohinoorBangla-Regular.woff2') format('woff2'),
+        url('../fonts/kohinoor-bangla-regular/KohinoorBangla-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
